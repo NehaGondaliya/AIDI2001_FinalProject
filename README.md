@@ -26,3 +26,7 @@ Use Cases
     Python learning projects
     Educational tools
     Accessibility tools
+
+#http://127.0.0.1:7860
+
+#github link: https://github.com/NehaGondaliya/AIDI2001_FinalProject
